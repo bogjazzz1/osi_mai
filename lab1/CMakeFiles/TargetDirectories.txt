@@ -1,0 +1,5 @@
+/home/aleksandr/LABS-OS/lab1var13/CMakeFiles/main.dir
+/home/aleksandr/LABS-OS/lab1var13/CMakeFiles/child1.dir
+/home/aleksandr/LABS-OS/lab1var13/CMakeFiles/child2.dir
+/home/aleksandr/LABS-OS/lab1var13/CMakeFiles/edit_cache.dir
+/home/aleksandr/LABS-OS/lab1var13/CMakeFiles/rebuild_cache.dir
